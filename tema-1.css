@@ -1,0 +1,158 @@
+/*Start body */
+body{
+    background-color: white (0, 160, 166);
+    color: black(252, 239, 239, 0); 
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+/* and body */
+a{
+    text-decoration: none;
+    color: rgb(229, 240, 128);
+}
+    a:hover{
+        color: yellow;
+        background-color: white;
+    }
+
+a :visited {
+    color: white;
+}
+.container{
+    width: 90%;
+    overflow: auto;
+    text-align: center;
+    margin: 10px auto;
+}
+.bg-cadet {
+    background-color: rosybrown;
+}
+/* Debug Aid BEGIN*/
+.bg 
+
+.logo {
+    text-align: center;
+}
+
+.menu-primer ul {
+    background-color: black;
+    border-radius: 4px;
+    box-shadow: 
+        0 3px 5px -1px rgba(0, 0, 0, 0.2),
+        0 6px 10px0 rgba(0, 0, 0, 0.14),
+        0 1px 18px 0 rgba(0, 0, 0, 0.12);
+}
+
+.menu-primer li {
+    display: inline-block;
+}
+
+.menu-primer a {
+    text-transform: uppercase;
+     display: inline-block;
+     padding: 6px 10px;
+     letter-spacing: 1px;
+
+}
+
+.menu-primer a:hover {  
+    background-color: #ffffff;
+    color: khaki;
+    cursor: default
+}
+
+.menu-primer :active {
+    background-color: #ffffff;
+    color: green;
+}
+
+.jumbotron {
+    background-color: khaki;
+    border: solid 4px yellow;
+    border-radius:  8px;
+
+}
+
+.jumbotron h1 {
+    margin: 20px 40px;
+    font-size: 2px;
+}
+
+.jumbotron h3 {
+    margin: 20px 40px;
+    font-size: 16px;
+}
+
+.copyright p {
+    font-size: 14px;
+    color: green;
+}
+
+/* footer Box: Begin */
+.container-FULL {
+background-color: white;
+border: solid 4px yellow;
+}
+.footer-box {
+    width: 33.3%;
+    float: left;
+}
+
+.footer-box ul{
+    margin: 0;
+    padding: 0%;
+}
+
+.footer-box li{
+    padding: 2px 0px;
+
+}
+
+footer-box img{
+    vertical-align: middle;
+}
+
+.footer-box h4 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+/* footer Box: End*/
+
+/* box: BEGIN */
+.box2-left {
+    width: 49.5%;
+    float: left;
+}
+
+.box-right {
+    width: 49.5%;
+    float: right;
+}
+
+.box-heading {
+    border: solid 1px lightblue;
+    background-color: whitesmoke;
+    border: solid 4px yellow;
+    border-radius: 5px 5px 0 0; /* Top-Lef Top-Right Bottom-Left Bottom-Right */
+    padding: 15px 20px;
+    margin: 0;
+    text-transform: uppercase;
+
+}
+
+.box-heading {
+    margin: 0px
+}
+
+.box-content {
+    border: solid 1px;
+    border-top: 0;
+    margin: 0;
+    padding: 10px 
+}
+
+.box-fixed {
+    height: 130px
+}
+/* Box: END */
